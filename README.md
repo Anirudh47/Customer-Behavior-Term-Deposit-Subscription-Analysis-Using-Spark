@@ -1,4 +1,4 @@
-# Team-Incisive_Mini-Project-2
+# BAN5753_Team_Incisive_MiniProject_2
 
 ## Introduction
 XYZ Bank seeks to optimize its direct marketing campaigns for term deposit subscriptions. By applying machine learning models, the bank aims to predict which customers are more likely to subscribe, thus improving the allocation of marketing resources and customer engagement strategies.
